@@ -5,7 +5,7 @@
 1. IBM Cloud Fonudray搭建V2Ray ws
 2. 利用Github的Actions 每周重启 IBM Cloud Fonudray
 3. Cloudflare 高速节点中转
-
+edit by laoyou2333
 # 使用IBM Cloud Fonudray搭建V2Ray
 
 首先注册https://cloud.ibm.com/
